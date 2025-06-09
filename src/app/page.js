@@ -45,7 +45,7 @@ export default function Home() {
 
       {/* 夾娃娃機遊戲圈圈 */}
       <div className="group absolute top-[50%] left-[63%] w-[12%] h-[20%] rounded-full bg-white/0 hover:bg-white/10 transition cursor-pointer flex items-center justify-center">
-        <Link href="">
+        <Link href="https://claw-game-di9pnzm11-huas-projects-b157c5fc.vercel.app/">
           <Image
             src={StartImg}
             alt="start"
